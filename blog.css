@@ -1,0 +1,53 @@
+
+* {
+  box-sizing: border-box;
+}
+body {
+    font-family: Arial;
+    padding: 20px;
+    background-image: linear-gradient(to right,rgb(255, 8, 0),orange)
+  }
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+}
+ .header {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 30px;
+    font-size: 40px;
+    text-align: center;
+    background-image: linear-gradient(to left,yellow,orange);
+  }
+  h2{
+      text-align: center;
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .column {   
+    width: 100%;
+    
+  }
+  img{
+    width: 100%;
+    padding: 20px;
+    height: 350px; 
+    margin: 10px auto;  
+  }
+  
+  .card {
+     background-color: rgb(255, 243, 173);
+     padding: 20px;
+     margin-top: 20px;
+     background-image: linear-gradient(to left, yellow,orange);
+  }
+  
+ 
+ 
+  
+  
+  
